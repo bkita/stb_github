@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57b33d6e-8c72-4312-940d-18a415201ac5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUzywcZY1HPfbO0FFS04xDUnZu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.OrganizationTest">
+    <configuration name="OrganizationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STBAuthDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trello" />
+      <option name="MAIN_CLASS_NAME" value="trello.OrganizationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrganizationTest.createOrganization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STBAuthDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trello" />
+      <option name="MAIN_CLASS_NAME" value="trello.OrganizationTest" />
+      <option name="METHOD_NAME" value="createOrganization" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrganizationTest.createOrganizationWithWebsiteHttp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STBAuthDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trello" />
+      <option name="MAIN_CLASS_NAME" value="trello.OrganizationTest" />
+      <option name="METHOD_NAME" value="createOrganizationWithWebsiteHttp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostTest.readPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STBAuthDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jsonplaceholder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jsonplaceholder" />
+      <option name="MAIN_CLASS_NAME" value="jsonplaceholder.PostTest" />
+      <option name="METHOD_NAME" value="readPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.createNewUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STBAuthDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jsonplaceholder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jsonplaceholder" />
+      <option name="MAIN_CLASS_NAME" value="jsonplaceholder.UserTest" />
+      <option name="METHOD_NAME" value="createNewUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrganizationTest" />
+        <item itemvalue="JUnit.OrganizationTest.createOrganizationWithWebsiteHttp" />
+        <item itemvalue="JUnit.OrganizationTest.createOrganization" />
+        <item itemvalue="JUnit.UserTest.createNewUser" />
+        <item itemvalue="JUnit.PostTest.readPost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b33d6e-8c72-4312-940d-18a415201ac5" name="Default Changelist" comment="" />
+      <created>1584908718947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584908718947</updated>
+      <workItem from="1584908723354" duration="5990000" />
+      <workItem from="1584915492056" duration="265000" />
+      <workItem from="1584915785214" duration="6569000" />
+      <workItem from="1585343472717" duration="170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1584913489090">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="533" y="110" key="#com.intellij.ide.util.MemberChooser/0.23.1440.792/-1440.23.1440.877@0.23.1440.792" timestamp="1584913263075" />
+    <state x="533" y="110" key="#com.intellij.ide.util.MemberChooser/0.23.1440.795/-1440.23.1440.877@0.23.1440.795" timestamp="1584913489090" />
+    <state width="1440" height="72" key="GridCell.Tab.0.bottom" timestamp="1585002725280">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1440" height="195" key="GridCell.Tab.0.bottom/0.23.1440.792/-1440.23.1440.877@0.23.1440.792" timestamp="1584912859708" />
+    <state width="1440" height="47" key="GridCell.Tab.0.bottom/0.23.1440.795/-1440.23.1440.877@0.23.1440.795" timestamp="1584998785490" />
+    <state width="1440" height="217" key="GridCell.Tab.0.bottom/0.23.1440.798/-1440.23.1440.877@0.23.1440.798" timestamp="1584914039625" />
+    <state width="1440" height="156" key="GridCell.Tab.0.bottom/0.23.1440.801/-1440.23.1440.877@0.23.1440.801" timestamp="1585001569162" />
+    <state width="1440" height="72" key="GridCell.Tab.0.bottom/0.23.1440.804/-1440.23.1440.877@0.23.1440.804" timestamp="1585002725280" />
+    <state width="1440" height="72" key="GridCell.Tab.0.center" timestamp="1585002725279">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1440" height="195" key="GridCell.Tab.0.center/0.23.1440.792/-1440.23.1440.877@0.23.1440.792" timestamp="1584912859707" />
+    <state width="1440" height="47" key="GridCell.Tab.0.center/0.23.1440.795/-1440.23.1440.877@0.23.1440.795" timestamp="1584998785488" />
+    <state width="1440" height="217" key="GridCell.Tab.0.center/0.23.1440.798/-1440.23.1440.877@0.23.1440.798" timestamp="1584914039624" />
+    <state width="1440" height="156" key="GridCell.Tab.0.center/0.23.1440.801/-1440.23.1440.877@0.23.1440.801" timestamp="1585001569161" />
+    <state width="1440" height="72" key="GridCell.Tab.0.center/0.23.1440.804/-1440.23.1440.877@0.23.1440.804" timestamp="1585002725279" />
+    <state width="1440" height="72" key="GridCell.Tab.0.left" timestamp="1585002725278">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1440" height="195" key="GridCell.Tab.0.left/0.23.1440.792/-1440.23.1440.877@0.23.1440.792" timestamp="1584912859706" />
+    <state width="1440" height="47" key="GridCell.Tab.0.left/0.23.1440.795/-1440.23.1440.877@0.23.1440.795" timestamp="1584998785488" />
+    <state width="1440" height="217" key="GridCell.Tab.0.left/0.23.1440.798/-1440.23.1440.877@0.23.1440.798" timestamp="1584914039623" />
+    <state width="1440" height="156" key="GridCell.Tab.0.left/0.23.1440.801/-1440.23.1440.877@0.23.1440.801" timestamp="1585001569160" />
+    <state width="1440" height="72" key="GridCell.Tab.0.left/0.23.1440.804/-1440.23.1440.877@0.23.1440.804" timestamp="1585002725278" />
+    <state width="1440" height="72" key="GridCell.Tab.0.right" timestamp="1585002725279">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1440" height="195" key="GridCell.Tab.0.right/0.23.1440.792/-1440.23.1440.877@0.23.1440.792" timestamp="1584912859707" />
+    <state width="1440" height="47" key="GridCell.Tab.0.right/0.23.1440.795/-1440.23.1440.877@0.23.1440.795" timestamp="1584998785489" />
+    <state width="1440" height="217" key="GridCell.Tab.0.right/0.23.1440.798/-1440.23.1440.877@0.23.1440.798" timestamp="1584914039624" />
+    <state width="1440" height="156" key="GridCell.Tab.0.right/0.23.1440.801/-1440.23.1440.877@0.23.1440.801" timestamp="1585001569161" />
+    <state width="1440" height="72" key="GridCell.Tab.0.right/0.23.1440.804/-1440.23.1440.877@0.23.1440.804" timestamp="1585002725279" />
+    <state x="416" y="23" key="SettingsEditor" timestamp="1585000632600">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="416" y="23" key="SettingsEditor/0.23.1440.795/-1440.23.1440.877@0.23.1440.795" timestamp="1584916845762" />
+    <state x="416" y="23" key="SettingsEditor/0.23.1440.798/-1440.23.1440.877@0.23.1440.798" timestamp="1584915760776" />
+    <state x="416" y="23" key="SettingsEditor/0.23.1440.801/-1440.23.1440.877@0.23.1440.801" timestamp="1585000632600" />
+    <state x="532" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1585343473004">
+      <screen x="0" y="23" width="1920" height="1086" />
+    </state>
+    <state x="399" y="253" key="com.intellij.ide.util.TipDialog/0.23.1440.795/-1440.23.1440.877@0.23.1440.795" timestamp="1584915786045" />
+    <state x="532" y="337" key="com.intellij.ide.util.TipDialog/0.23.1920.1086/-1920.23.1920.1177@0.23.1920.1086" timestamp="1585343473004" />
+    <state x="312" y="144" width="816" height="550" key="find.popup" timestamp="1584912582805">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state x="312" y="144" width="816" height="550" key="find.popup/0.23.1440.792/-1440.23.1440.877@0.23.1440.792" timestamp="1584912582805" />
+  </component>
+</project>
